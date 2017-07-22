@@ -78,8 +78,3 @@ var downloadAttemptDurationInSeconds = 120;
 var currentDownloadAttemptTimeInSeconds = 0;
 var downloadAttemptWaitInSeconds = 0.5;
 var downloadAttemptWaitTimeout = null;
-
-//--------------------------------------------------------------------
-// Script Execution
-
-tryDownloading(96);
